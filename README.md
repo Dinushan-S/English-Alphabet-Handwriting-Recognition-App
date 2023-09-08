@@ -18,9 +18,9 @@ To get started with this project, follow these steps:
 Clone the Repository: Clone this repository to your local machine using git clone.
 
 Dependencies:
-      tflite: ^1.0.4
-      image: ^2.1.4
-      audioplayers: ^0.10.0
+      tflite: 1.0.4
+      image: 2.1.4
+      audioplayers: 0.10.0
 Make sure you have Flutter and all necessary dependencies installed.
 
 Run the App: Run the app on an emulator or physical device using flutter run.
