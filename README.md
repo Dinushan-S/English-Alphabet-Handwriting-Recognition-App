@@ -2,11 +2,10 @@
 Welcome to the English Alphabet Handwriting Recognition GitHub repository! This project is a mobile application developed using Flutter, designed to recognize and analyze handwritten English alphabet characters. Whether you're looking to integrate handwriting recognition into your own Flutter app or simply interested in exploring the world of machine learning and handwriting analysis, this repository is a valuable resource.
 
 * Features:
-
-Handwriting Recognition
-Machine Learning Model
-User-Friendly Interface
-Interactive Learning
+    * Handwriting Recognition
+    * Machine Learning Model
+    * User-Friendly Interface
+    * Interactive Learning
 
 * Getting Started:
 To get started with this project, follow these steps:
@@ -31,5 +30,7 @@ Contributions to this project are welcome! Whether you want to improve the handw
 * Issues and Support:
 If you encounter any issues or have questions about using the app or the code, please open an issue in the repository. I'll do our best to provide assistance and resolve problems promptly.
 
+<div style="display:flex">
 <img src="https://res.cloudinary.com/djhdjpjef/image/upload/v1694410148/page_1_kdtymn.png"  width="240" height="340">
 <img src="https://res.cloudinary.com/djhdjpjef/image/upload/v1694410185/page_2_g7xuuc.png" width="240" height="340">
+</div>
