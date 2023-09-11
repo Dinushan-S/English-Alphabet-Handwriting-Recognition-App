@@ -31,7 +31,7 @@ Contributions to this project are welcome! Whether you want to improve the handw
 If you encounter any issues or have questions about using the app or the code, please open an issue in the repository. I'll do our best to provide assistance and resolve problems promptly.
 
 <div style="display:flex,justify-content:center,align-item:center">
-<img src="https://res.cloudinary.com/djhdjpjef/image/upload/v1694410659/Screenshot_1692805556_xr16dn.png" width="240" height="340">
-<img src="https://res.cloudinary.com/djhdjpjef/image/upload/v1694410148/page_1_kdtymn.png"  width="240" height="340" style="margin-right:20px">
-<img src="https://res.cloudinary.com/djhdjpjef/image/upload/v1694410185/page_2_g7xuuc.png" width="240" height="340">
+<img src="https://res.cloudinary.com/djhdjpjef/image/upload/v1694410659/Screenshot_1692805556_xr16dn.png" width="240" height="400">
+<img src="https://res.cloudinary.com/djhdjpjef/image/upload/v1694410148/page_1_kdtymn.png"  width="240" height="400">
+<img src="https://res.cloudinary.com/djhdjpjef/image/upload/v1694410185/page_2_g7xuuc.png" width="240" height="400">
 </div>
