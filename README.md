@@ -1,12 +1,12 @@
 # English-Alphabet-Handwriting-Recognition-App
 Welcome to the English Alphabet Handwriting Recognition GitHub repository! This project is a mobile application developed using Flutter, designed to recognize and analyze handwritten English alphabet characters. Whether you're looking to integrate handwriting recognition into your own Flutter app or simply interested in exploring the world of machine learning and handwriting analysis, this repository is a valuable resource.
 
-Features:
+* Features:
 
-# Handwriting Recognition
-# Machine Learning Model
-# User-Friendly Interface
-# Interactive Learning
+Handwriting Recognition
+Machine Learning Model
+User-Friendly Interface
+Interactive Learning
 
 * Getting Started:
 To get started with this project, follow these steps:
@@ -15,9 +15,9 @@ To get started with this project, follow these steps:
 * FLUTTER SDK Version - ">=2.1.0 <3.0.0"
 
 * Dependencies:
-# tflite: 1.0.4
-# image: 2.1.4
-# audioplayers: 0.10.0
+tflite: 1.0.4
+image: 2.1.4
+audioplayers: 0.10.0
 Make sure you have Flutter and all necessary dependencies installed.
 
 * Run the App: Run the app on an emulator or physical device using flutter run.
@@ -32,10 +32,7 @@ Contributions to this project are welcome! Whether you want to improve the handw
 If you encounter any issues or have questions about using the app or the code, please open an issue in the repository. I'll do our best to provide assistance and resolve problems promptly.
 
 
-<div style="display:flex" >
-<a href="https://github.com/Dinushan-S/English-Alphabet-Handwriting-Recognition-App/assets/52119964/0aef2cc5-2352-48a9-9529-4fafe33622e4">
-</a>
+<img src="https://github.com/Dinushan-S/English-Alphabet-Handwriting-Recognition-App/assets/52119964/0aef2cc5-2352-48a9-9529-4fafe33622e4" width="240" height="180">
 <a href="https://github.com/Dinushan-S/English-Alphabet-Handwriting-Recognition-App/assets/52119964/83c6cb2d-c853-42f4-ae23-43c36663e8bf">
 </a>
-</div>
 {![Screenshot_1692805667](https://github.com/Dinushan-S/English-Alphabet-Handwriting-Recognition-App/assets/52119964/0aef2cc5-2352-48a9-9529-4fafe33622e4)![Screenshot_1692805667](https://github.com/Dinushan-S/English-Alphabet-Handwriting-Recognition-App/assets/52119964/83c6cb2d-c853-42f4-ae23-43c36663e8bf)}
