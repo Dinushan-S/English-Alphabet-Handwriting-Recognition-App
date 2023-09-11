@@ -36,6 +36,5 @@ If you encounter any issues or have questions about using the app or the code, p
 Thank you for your interest in the English Alphabet Handwriting Recognition project. We hope this repository helps you in your learning journey and inspires you to explore the fascinating field of handwriting recognition and machine learning.
 
 
-![Screenshot_1692805667](https://github.com/Dinushan-S/English-Alphabet-Handwriting-Recognition-App/assets/52119964/0aef2cc5-2352-48a9-9529-4fafe33622e4)
-![Screenshot_1692805667](https://github.com/Dinushan-S/English-Alphabet-Handwriting-Recognition-App/assets/52119964/83c6cb2d-c853-42f4-ae23-43c36663e8bf)
+![Screenshot_1692805667](https://github.com/Dinushan-S/English-Alphabet-Handwriting-Recognition-App/assets/52119964/0aef2cc5-2352-48a9-9529-4fafe33622e4)![Screenshot_1692805667](https://github.com/Dinushan-S/English-Alphabet-Handwriting-Recognition-App/assets/52119964/83c6cb2d-c853-42f4-ae23-43c36663e8bf)
 
