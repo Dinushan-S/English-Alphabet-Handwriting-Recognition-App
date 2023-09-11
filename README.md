@@ -31,8 +31,9 @@ Contributions to this project are welcome! Whether you want to improve the handw
 * Issues and Support:
 If you encounter any issues or have questions about using the app or the code, please open an issue in the repository. I'll do our best to provide assistance and resolve problems promptly.
 
+<img src="https://github.com/Dinushan-S/English-Alphabet-Handwriting-Recognition-App/assets/52119964/83c6cb2d-c853-42f4-ae23-43c36663e8bf"  width="240" height="340">
+<img src="https://github.com/Dinushan-S/English-Alphabet-Handwriting-Recognition-App/assets/52119964/0aef2cc5-2352-48a9-9529-4fafe33622e4" width="240" height="340">
 
-<img src="https://github.com/Dinushan-S/English-Alphabet-Handwriting-Recognition-App/assets/52119964/0aef2cc5-2352-48a9-9529-4fafe33622e4" width="240" height="180">
-<a href="https://github.com/Dinushan-S/English-Alphabet-Handwriting-Recognition-App/assets/52119964/83c6cb2d-c853-42f4-ae23-43c36663e8bf">
+<a href="">
 </a>
 {![Screenshot_1692805667](https://github.com/Dinushan-S/English-Alphabet-Handwriting-Recognition-App/assets/52119964/0aef2cc5-2352-48a9-9529-4fafe33622e4)![Screenshot_1692805667](https://github.com/Dinushan-S/English-Alphabet-Handwriting-Recognition-App/assets/52119964/83c6cb2d-c853-42f4-ae23-43c36663e8bf)}
